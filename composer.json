@@ -1,0 +1,30 @@
+{
+  "name": "kubeecms/cms",
+  "type": "wordpress-plugin",
+  "license": "GNU",
+  "description": "Cms build",
+  "homepage": "https://github.com/kubeecms/cms/",
+  "authors": [
+    {
+      "name": "Romeo Covaci",
+      "email": "romeo.covaci@gmail.com",
+      "homepage": "https://github.com/romeocovaci"
+    },
+    {
+      "name": "Brand Li",
+      "email": "brandli.ro@gmail.com",
+      "homepage": "https://github.com/brand-li"
+    }
+  ],
+  "keywords": [
+    "cms"
+  ],
+  "support": {
+    "issues": "https://github.com/kubeecms/cms/issues",
+    "forum": "https://github.com/kubeecms/cms"
+  },
+  "require": {
+    "php": ">=7.2.0",
+    "composer/installers": "~1.0"
+  }
+}
